@@ -48,13 +48,10 @@ nav ul li a {
 
 /* Basic styling for the footer */
 footer {
-    background-color: #333;
+    background:#e8491d ;
     color: #fff;
     text-align: center;
-    padding: 10px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+    padding: 20px;
 }
 table{
     margin-left:20px;
@@ -67,3 +64,55 @@ table{
 tr{
     front-weight:400px;
 }
+section{
+    background:
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+        tr{
+            text-align: center;
+        }
+        h1 {
+            text-align: center;
+        }
+        h3{
+            text-align: center;
+        }
+        
+        body{
+        background-color:#f4f4f4;
+        color: whitl
+        }
+     
+        }
+        table{
+            margin-left:30px;
+            font-size:16px;
+        }
+        .pn
+        float: right;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
